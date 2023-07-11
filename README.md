@@ -19,7 +19,7 @@ For full usage take a look at https://github.com/gehrisandro/tailwind-merge-php
 
 ## Requirements
 
-This plugin requires Craft CMS 4.4.0 or later, and PHP 8.0.2 or later.
+This plugin requires Craft CMS 4.4.0 or later, and PHP 8.1 or later.
 
 ## Installation
 
