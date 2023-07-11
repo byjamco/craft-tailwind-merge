@@ -2,7 +2,7 @@
 
 Tailwind Merge Utility for Twig. This is a wrapper around
 
-## Usage
+## Usage
 
 ```
 <a href="" class="{{ twMerge('rounded-full px-2 font-semibold border-4', 'font-bold border-6') }}">
