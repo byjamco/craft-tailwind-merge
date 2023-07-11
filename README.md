@@ -38,7 +38,7 @@ Open your terminal and run the following commands:
 cd /path/to/my-project.test
 
 # tell Composer to load the plugin
-composer require byjamco/craft-tailwind-merge
+composer require byjam/craft-tailwind-merge
 
 # tell Craft to install the plugin
 ./craft plugin/install tailwind-merge
