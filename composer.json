@@ -1,0 +1,40 @@
+{
+	"name": "byjam/craft-tailwind-merge",
+	"description": "Tailwind Merge Utility for Twig",
+	"type": "craft-plugin",
+	"license": "mit",
+	"support": {
+		"email": "support@byjam.co",
+		"issues": "https://github.com/byjamco/craft-tailwind-merge/issues?state=open",
+		"source": "https://github.com/byjamco/craft-tailwind-merge",
+		"docs": "https://github.com/byjamco/craft-tailwind-merge",
+		"rss": "https://github.com/byjamco/craft-tailwind-merge/releases.atom"
+	},
+	"require": {
+		"php": ">=8.1.0",
+		"craftcms/cms": "^4.4.0",
+		"gehrisandro/tailwind-merge-php": "^0.0.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"byjam\\tailwindmerge\\": "src/"
+		}
+	},
+	"extra": {
+		"handle": "tailwind-merge",
+		"name": "Tailwind Merge",
+		"developer": "byjam",
+		"documentationUrl": "https://github.com/byjamco/craft-tailwind-merge",
+		"class": "byjam\\tailwindmerge\\TailwindMerge"
+	},
+	"config": {
+		"sort-packages": true,
+		"platform": {
+			"php": "8.1.0"
+		},
+		"allow-plugins": {
+			"yiisoft/yii2-composer": true,
+			"craftcms/plugin-installer": true
+		}
+	}
+}
