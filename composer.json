@@ -11,8 +11,8 @@
 		"rss": "https://github.com/byjamco/craft-tailwind-merge/releases.atom"
 	},
 	"require": {
-		"php": ">=8.1.0",
-		"craftcms/cms": "^4.4.0",
+		"php": ">=8.2.0",
+		"craftcms/cms": "^5.0",
 		"gehrisandro/tailwind-merge-php": "^0.0.1"
 	},
 	"autoload": {
@@ -30,7 +30,7 @@
 	"config": {
 		"sort-packages": true,
 		"platform": {
-			"php": "8.1.0"
+			"php": "8.2.0"
 		},
 		"allow-plugins": {
 			"yiisoft/yii2-composer": true,

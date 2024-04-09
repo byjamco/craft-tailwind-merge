@@ -15,7 +15,7 @@ Will return
 <a href="" class="rounded-full px-2 font-bold border-6"></a>
 ```
 
-For full usage take a look at https://github.com/gehrisandro/tailwind-merge-php
+For full usage take a look at https://github.com/gehrisandro/tailwind-merge-php which is a port of https://github.com/dcastil/tailwind-merge. All credits go to these two, this is just a wrapper.
 
 ## Requirements
 
